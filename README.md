@@ -5,6 +5,8 @@ This project implements two scheduling algorithms in Python:
 
 1. **First-Come-First-Serve (FCFS)** Scheduling
 2. **Priority Scheduling**
+3. **Round Robin (RR)**
+4. **Shortest Remaining Time First (SMRTF)**
 
 ## How It Works
 
